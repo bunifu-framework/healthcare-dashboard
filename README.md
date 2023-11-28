@@ -1,4 +1,4 @@
-# product-sales-dashboard
+# health-care-dashboard
 Designing an Innovative Health Care Center Dashboard with Bunifu UI Framework in C# 
 
 Steps on getting started
